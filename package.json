@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "debug": "^2.2.0",
-    "reflux": "^0.4.0"
+    "reflux": "^6.3.0"
   },
   "devDependencies": {
     "babel-preset-react": "^6.5.0",
